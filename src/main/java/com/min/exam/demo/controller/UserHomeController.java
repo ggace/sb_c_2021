@@ -11,5 +11,4 @@ public class UserHomeController {
 	public String showMain() {
 		return "안녕하세요";
 	}
-
 }
